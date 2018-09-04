@@ -4,13 +4,9 @@ permalink: "/repertoire"
 layout: default
 ---
 
-**Argento**
+**Argento** ..... **“Diaphenia”**  from **6 Elizabeth Songs** 
 
-**“Diaphenia”**  from **6 Elizabeth Songs** 
-
-
-**Caccini**
-   Amarilli, mia bella 
+**Caccini** ..... Amarilli, mia bella 
 
 **Chausson**
    "Le Colibri” from 7 Melodies, Op.2 
