@@ -8,27 +8,22 @@ layout: default
 
 **Caccini** - **Amarilli, mia bella** 
 
-**Chausson**: **"Le Colibri”** from **7 Melodies, Op.2** 
+**Chausson** - **"Le Colibri”** from **7 Melodies, Op.2** 
 
-**Copland**: Long Time Ago 
+**Copland** - **Long Time Ago** 
 
-**Donaudy**: Date abbiento al mio dolore 
+**Donaudy** - **Date abbiento al mio dolore** 
 
-**Finzi**: Her Temple; The Sigh 
+**Finzi** - **Her Temple; The Sigh** 
 
-**Mendelssohn**: **“If With All Your Hearts”** from **Elijah** 
+**Mendelssohn** - **“If With All Your Hearts”** from **Elijah** 
 
-**Mozart**
-  “Dalla sua pace” from Don Giovanni 
+**Mozart** - **“Dalla sua pace”** from **Don Giovanni** 
      
-**Quilter**
-  To Daisies 
+**Quilter** - **To Daisies** 
 
-**Scarlatti**
-  Sento nel core
+**Scarlatti** - **Sento nel core**
 
-**Schubert**
-  Am Feierabend 
+**Schubert** - **Am Feierabend** 
 
-**Schlosser**
-  He That Keepeth Israel
+**Schlosser** - **He That Keepeth Israel**
