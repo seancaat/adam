@@ -5,8 +5,9 @@ layout: default
 ---
 
 **Argento** 
+   
+   **“Diaphenia”**  from **6 Elizabeth Songs** 
 
-   “Diaphenia”  from 6 Elizabeth Songs 
 
 **Caccini**
    Amarilli, mia bella 
