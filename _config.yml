@@ -1,0 +1,16 @@
+---
+title: Your awesome title
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+nav:
+  Performances: "/performances"
+  Repertoire: "/repertoire"
+  Contact: "/contact"
+bio: "I am a vocalist and musician studying at the University of Michigan with an emphasis on operatic performance."
+email: "adamcatangui@gmail.com"
