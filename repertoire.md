@@ -4,7 +4,7 @@ permalink: "/repertoire"
 layout: default
 ---
 
-**Argento** - 
+**Argento** 
   “Diaphenia” from 6 Elizabeth Songs
 
 **Caccini** - Amarilli, mia bella 
