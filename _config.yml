@@ -14,3 +14,6 @@ nav:
   Contact: "/contact"
 bio: I am a vocalist and musician at O'Gorman High School in Sioux Falls, SD.
 email: adamcatangui@gmail.com
+description: This is online portfolio of Adam Catangui.
+baseurl: 
+markdown: kramdown
