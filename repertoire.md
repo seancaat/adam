@@ -12,13 +12,10 @@ layout: default
 
 **Copland**: Long Time Ago 
 
-**Donaudy**
-   Date abbiento al mio dolore 
+**Donaudy**: Date abbiento al mio dolore 
 
-
-**Finzi**
-   Her Temple 
-   The Sigh 
+**Finzi**: Her Temple 
+           The Sigh 
 
 **Mendelssohn**
   “If With All Your Hearts” from Elijah 
