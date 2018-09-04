@@ -39,5 +39,5 @@ layout: default
 **Schubert**
   Am Feierabend 
 
-Schlosser
+**Schlosser**
   He That Keepeth Israel
