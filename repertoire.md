@@ -4,15 +4,13 @@ permalink: "/repertoire"
 layout: default
 ---
 
-**Argento** ..... **“Diaphenia”**  from **6 Elizabeth Songs** 
+**Argento**: **“Diaphenia”**  from **6 Elizabeth Songs** 
 
-**Caccini** ..... Amarilli, mia bella 
+**Caccini**: Amarilli, mia bella 
 
-**Chausson**
-   "Le Colibri” from 7 Melodies, Op.2 
+**Chausson**: "Le Colibri” from **7 Melodies, Op.2** 
 
-**Copland**
-   Long Time Ago 
+**Copland**: Long Time Ago 
 
 **Donaudy**
    Date abbiento al mio dolore 
