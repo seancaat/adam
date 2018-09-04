@@ -1,0 +1,11 @@
+---
+layout: default
+---
+
+<p>{{ site.bio }}</p>
+<ul>
+  {% for item in site.nav %}      
+    <li><a href="{{ item[1] }}"> {{ item[0] }}</a></li>
+  {% endfor %}
+</ul>
+
