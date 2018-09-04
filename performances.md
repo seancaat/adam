@@ -1,6 +1,6 @@
 ---
-layout: default
 title: Performances
 permalink: "/performances"
+layout: default
 ---
 
