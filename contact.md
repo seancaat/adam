@@ -4,4 +4,4 @@ permalink: "/contact"
 layout: default
 ---
 
-[email: adamcatangui@gmail.com](mail to:adamcatangui@gmail.com)
+email: adamcatangui@gmail.com
