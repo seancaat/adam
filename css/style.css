@@ -60,6 +60,7 @@ footer {
 }   
 .embed-container {
   margin-top: 3rem;
+  margin-bottom: 0;
 } 
 @media screen and (max-width: 700px) {
   h1 {
@@ -83,4 +84,7 @@ footer {
   main {
     max-width: 100%;
   }
+  main > div {
+  padding-left: 0rem;
+}
 }
