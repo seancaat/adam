@@ -11,7 +11,7 @@ collections:
 nav:
   Performances: "/performances"
   Repertoire: "/repertoire"
-  Contact: "/contact"
+  Contact: "mailto:adamcatangui@gmail.com"
 bio: 'I am a tenor  from Sioux Falls, SD. It has been my childhood dream to become
   an opera singer. '
 email: adamcatangui@gmail.com
