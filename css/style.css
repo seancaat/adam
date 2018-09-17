@@ -8,7 +8,8 @@ body {
   /*background:transparent url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAMklEQVR4AWOgCLz/b0epAa6UGuBOqQHOQHLUgFEDnAbcBZ4UGwDOkiCnkIhdgNgNxAYAiYlD+8sEuo8AAAAASUVORK5CYII=) repeat top left;*/
 }
 main {
-  max-width: 70%;
+  width: 70%;
+  max-width: 1200px;
   margin-left: auto;
   margin-right: auto;
 }
@@ -60,13 +61,14 @@ h1 > a:hover {
 footer {
   font-size: 1rem;
   font-style: italic;
-  margin-top: 3rem;
+  margin-top: 6rem;
   padding-bottom: 0.5rem;
 }   
 .embed-container {
   margin-top: 2.25rem;
-  /*margin-bottom: 0;*/
-} 
+}
+
+
 @media screen and (max-width: 700px) {
   h1 {
     font-size: 5rem;
@@ -87,6 +89,6 @@ footer {
     padding: 0 1rem 0 0.5rem;
   }
   main {
-    max-width: 100%;
+    width: 100%;
   }
 }
