@@ -11,7 +11,9 @@ layout: default
 
 **Chausson**... "Le Colibri” from 7 Melodies, Op.2 
 
-**Copland**... Long Time Ago 
+**Copland**... At The River
+
+**Copland**... Long Time Ago
 
 **Donaudy**... Date abbiento al mio dolore 
 
