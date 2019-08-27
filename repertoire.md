@@ -7,6 +7,8 @@ layout: default
 **Argento**...
   “Diaphenia” from 6 Elizabeth Songs
 
+**Bernstein**... A Simple Song
+
 **Caccini**... Amarilli, mia bella 
 
 **Chausson**... "Le Colibri” from 7 Melodies, Op.2 
@@ -14,6 +16,8 @@ layout: default
 **Copland**... At The River
 
 **Copland**... Long Time Ago
+
+**Debussy**... Nuit d’étoiles
 
 **Donaudy**... Date abbiento al mio dolore 
 
@@ -30,5 +34,7 @@ layout: default
 **Schubert**... Am Feierabend 
 
 **Schlosser**... He That Keepeth Israel
+
+**Tosti**... La Serenata
 
 **Weill**... “Lonely House” from Street Scene
