@@ -7,13 +7,13 @@ layout: default
 **Argento**...
   “Diaphenia” from 6 Elizabethan Songs
 
-**Bernstein**... A Simple Song
+**Bernstein**... “Simple Song” from Mass
 
 **Caccini**... Amarilli, mia bella 
 
 **Chausson**... "Le Colibri” from 7 Melodies, Op.2 
 
-**Copland**... At The River
+**Copland**... “At The River” from Old American Songs, Set II
 
 **Copland**... Long Time Ago
 
