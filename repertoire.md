@@ -27,7 +27,6 @@ layout: default
 
 **Mozart**... “Dalla sua pace” from Don Giovanni 
      
-
 **Quilter**... Go, Lovely Rose
 
 **Quilter**... To Daisies 
