@@ -27,7 +27,12 @@ layout: default
 
 **Mozart**... “Dalla sua pace” from Don Giovanni 
      
+
+**Quilter**... Go, Lovely Rose
+
 **Quilter**... To Daisies 
+
+**Scarlatti**... Già il sole dal Gange
 
 **Scarlatti**... Sento nel core
 
